@@ -8,7 +8,6 @@
 {
 	'use strict';
 
-
 	var cssTransitionSupport = function()
 		{
 			var s = document.body || document.documentElement, s = s.style;
